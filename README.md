@@ -118,7 +118,6 @@ Analysed an indirect prompt-injection scenario in a fictional Django patient por
 ## Education
 
 **MSc Cybersecurity** — University of Aberdeen, UK *(exp. Sept 2026)*
-Student ID: 52534411 · Supervisor: Dr Chunyan Mu
 
 **BEng Electrical & Electronic Engineering** — Michael Okpara University of Agriculture, Nigeria *(2018)*
 
