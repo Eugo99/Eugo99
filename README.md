@@ -128,7 +128,7 @@ Student ID: 52534411 · Supervisor: Dr Chunyan Mu
 
 - Email: emmanuelakalabu@gmail.com
 - Location: Aberdeen, UK (open to UK & EU relocation)
-- LinkedIn: *(add your LinkedIn URL here)*
+- LinkedIn: [emmanuel-akalabu](https://www.linkedin.com/in/emmanuel-akalabu-7ba409159)
 
 ---
 
