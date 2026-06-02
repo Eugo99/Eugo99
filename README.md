@@ -1,4 +1,4 @@
-# Emmanuel Ugochukwu Akalabu (Casper)
+# Emmanuel Ugochukwu Akalabu
 
 **Cybersecurity Analyst · MSc Cybersecurity — University of Aberdeen (exp. Sept 2026)**
 
