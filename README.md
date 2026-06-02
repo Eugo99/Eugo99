@@ -96,13 +96,13 @@ Scapy script sniffing ICMP echo requests on a Docker bridge interface and respon
 
 ---
 
-### Industrial Automation Internship — Djreda Ltd
-`Allen Bradley PLC` `HMI` `OT/ICS` `IIoT` `MPPT`
+### Automation Engineer Intern — Industrial OT/ICS Environment
+`Allen Bradley PLC` `HMI` `MPPT Inverters` `IIoT` `Control Systems`
 
 Hands-on industrial automation internship at Djreda Ltd (Abeokuta, Nigeria, Feb 2019 – Feb 2020) working within a live OT/ICS environment.
 
 - Reviewed Allen Bradley PLC programs to identify sensor and actuator connection flaws in live control logic — direct exposure to the same OT layer targeted in my MSc research.
-- Assisted in the design and construction of control systems integrating Allen Bradley PLCs with HMI interfaces for industrial process management.
+- Assisted in design and construction of control systems integrating Allen Bradley PLCs with HMI interfaces for industrial process management.
 - Assisted in the construction of IIoT-enabled solar power systems with MPPT inverters, bridging embedded hardware and networked industrial control.
 
 ---
