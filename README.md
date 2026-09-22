@@ -46,8 +46,7 @@ OS                       Kali Linux · Debian · Ubuntu · Windows
 
 Three-container Docker environment isolated within a Kali Linux QEMU/KVM VM. Implements and measures two Modbus/TCP attack types against a reactive IDS and a preventive ACL control. Custom Suricata rules target function code misuse, write coil/register anomalies, and replay-like repeated PDU signatures (threshold-based via `detection_filter`). iptables rules restrict inbound TCP/502 to authorised client IP only.
 
-**Status:** Active (MSc project, Jun–Aug 2026)
-
+**Status:** Completed — dissertation submitted (MSc project, Jun–Sept 2026)
 ---
 
 ### Digital Forensics: Email & Disk Image Analysis
