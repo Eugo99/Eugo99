@@ -19,8 +19,7 @@ Comparing Suricata 6.0.4 (reactive, signature-based IDS) against Linux iptables 
 | Testbed | 3 containers: `modbus-target` (pymodbus) · `ids-monitor` (Suricata) · `attacker` (Scapy/pymodbus/tcpreplay) |
 | Dataset | 4SICS ICS Network Traffic Captures (replay traffic + FP baseline) |
 | Metrics | Attack success rate · Detection rate · False positive rate · Packet processing overhead |
-| Supervisor | Dr Chunyan Mu, University of Aberdeen |
-
+| Supervisor | MSc dissertation supervisor, University of Aberdeen |
 ---
 
 ## Technical Skills
